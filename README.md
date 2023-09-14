@@ -1,6 +1,6 @@
 # Predicting Sales of a Major Offline Drug
 
-![Project Logo/Image - If Applicable](https://camo.githubusercontent.com/94270f2d7b20db2e9df76bba874d32a0481f34f7db40b75c47db3f6548888f06/68747470733a2f2f696e7369646572657461696c2e617369612f77702d636f6e74656e742f75706c6f6164732f323032302f30392f526f73736d616e6e2e6a7067)
+![Project Logo/Image - If Applicable](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_1B4AubGGIKdchC_wpVANdO3_HmwSu-kncg&usqp=CAU)
 
 ## Overview
 
